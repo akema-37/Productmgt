@@ -12,7 +12,7 @@ public void jspInit() {
 %>
 <html>
 <head>
-<title>ユーザーログイン</title>
+<title>ユーザーログイン </title>
 </head>
 <body style="background: #ccffcc; text-align: center">
 	<h1 style="background: #00ffff">商品管理システム(仮)</h1>
